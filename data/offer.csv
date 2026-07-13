@@ -1,0 +1,10 @@
+offer_id,application_id,offered_ctc,offer_sent_date,offer_response_date,offer_status
+1,15,133123,2026-06-02,2026-07-03,Rejected
+2,20,79432,2026-06-03,2026-06-17,Accepted
+3,28,178096,2026-02-20,2026-04-16,Rejected
+4,30,139790,2026-06-14,2026-07-19,Rejected
+5,45,81853,2026-06-19,2026-07-01,Accepted
+6,63,146843,2026-07-05,2026-07-25,Accepted
+7,66,91392,2026-03-05,,Pending
+8,84,130839,2026-06-03,2026-06-07,Accepted
+9,89,149740,2026-06-23,,Pending

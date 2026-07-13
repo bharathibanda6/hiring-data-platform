@@ -1,0 +1,5 @@
+employee_id,application_id,joining_date,manager_id,department,designation
+EMP10001,20,2026-06-30,EMP10013,Quality Assurance,Cloud Engineer
+EMP10002,45,2026-08-04,EMP10005,Cloud,Data Engineer I
+EMP10003,63,2026-08-01,EMP10033,Quality Assurance,Cloud Engineer
+EMP10004,84,2026-07-19,EMP10026,Quality Assurance,QA Engineer
